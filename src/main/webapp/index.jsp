@@ -1,9 +1,9 @@
 <html>
 <body>
-<h1>Ethans!! APP!</h1>
-<h2>Jenkins Successfully Deloyed War file in Tomcat 8!</h2>
+<h1>Self Deployment BY Vijay Vipte</h1>
+<h2>We have Automated to deloyed War file in Tomcat 8! using jenkins and Docker</h2>
   
-  <h1>We are Deploying Web App in a apache tomcat container version 8!!</h1>
+  
   
 </body>
 </html>
